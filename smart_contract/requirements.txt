@@ -1,0 +1,5 @@
+# Python dependencies for AlgoKit
+
+algosdk==1.11.0
+requests==2.26.0
+flask==2.0.1
